@@ -6,6 +6,7 @@
 package Lesson_1;
 
 public class task_4 {
+    public static void main(String[] args) {
     String phrase = "Добро пожаловать на курс по Java";
     String[] arr = phrase.split(" ");
     StringBuilder result = new StringBuilder();
